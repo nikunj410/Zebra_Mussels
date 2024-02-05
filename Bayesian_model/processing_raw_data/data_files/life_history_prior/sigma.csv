@@ -1,0 +1,6 @@
+sigma,Min,Max
+sigma0,0.01,0.02
+sigma1,0.3,1
+sigma2,0.2,0.8
+sigma3,0.1,0.4
+sigma4,0.075,0.1

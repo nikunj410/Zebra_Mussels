@@ -1,0 +1,8 @@
+Please use the following citation when using downloaded data in publication:
+
+U.S. Geological Survey, 2022, Specimen observation data for <i>Dreissena polymorpha</i> (Pallas, 1771), Nonindigenous Aquatic Species Database, Gainesville, FL, https://nas.er.usgs.gov/queries/collectioninfo.aspx?SpeciesID=5, Access Date: 6/11/2022.
+
+
+
+Citation for this information:
+U.S. Geological Survey, 2022, Dreissena polymorpha: U.S. Geological Survey, Nonindigenous Aquatic Species Database, Gainesville, FL, https://nas.er.usgs.gov, Access Date: 6/15/2022
